@@ -1,4 +1,4 @@
 # Portfolio-Website
-✨ Floating Background Animation
+🌐 Portfolio Website
 
-This portfolio includes a floating background animation in the hero section, created using pure CSS. Soft circular shapes are positioned absolutely and animated with CSS keyframes to float smoothly across the screen. The animation adds subtle visual motion, enhances user engagement, and keeps the design modern without distracting from the main content.
+This is a responsive and interactive personal portfolio website created to present my profile, technical skills, and achievements in a visually engaging way. The website includes a sticky navigation header, an animated hero section with floating background elements, and smooth text reveal and scroll animations. An interactive image gallery with hover zoom and text overlay enhances user interaction. Built using HTML, CSS, and JavaScript, this project reflects my understanding of frontend fundamentals, UI/UX principles, and modern web design practices.
